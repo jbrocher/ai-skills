@@ -1,0 +1,3 @@
+interface:
+  display_name: "Pair TDD"
+  short_description: "Pair-building red-green-refactor handoffs"
